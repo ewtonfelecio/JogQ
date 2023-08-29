@@ -1,0 +1,10 @@
+{
+    "buyiyang": {
+        "code": "200",
+        "buyidata": {
+            "flow": false,
+            "name":"Game",
+            "build":"1.0"
+        }
+    }
+}
