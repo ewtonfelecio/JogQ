@@ -2,7 +2,7 @@
     "buyiyang": {
         "code": "200",
         "buyidata": {
-            "flow": true,
+            "flow": false,
             "name":"Game",
             "build":"1.0"
         }
